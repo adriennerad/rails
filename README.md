@@ -1,2 +1,2 @@
-# rails
-For Rails Python class
+# Rails Python class
+My first repo
